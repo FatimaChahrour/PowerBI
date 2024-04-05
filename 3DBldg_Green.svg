@@ -1,0 +1,12 @@
+<svg width="296" height="430" viewBox="501 1053 296 430" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="501" y="1053" width="296" height="430"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(-501 -1053)">
+    <rect x="501" y="1127" width="222" height="356" fill="#31A93F"/>
+    <path d="M723 1127 797 1053 797 1409 723 1483Z" fill="#278833" fill-rule="evenodd"/>
+    <path d="M501 1127 575 1053 797 1053 723 1127Z" fill="#59BA65" fill-rule="evenodd"/>
+  </g>
+</svg>
